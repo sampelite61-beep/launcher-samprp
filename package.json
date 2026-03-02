@@ -1,0 +1,1 @@
+{"name": "samp-launcher","version": "1.0.0","main": "index.js","scripts": {"start": "electron ."},"dependencies": {"electron": ">=12.0.0","react": "^17.0.0","react-dom": "^17.0.0"}}
